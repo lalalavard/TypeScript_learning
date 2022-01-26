@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/Interfaces.js" />
+        <item url="file://$PROJECT_DIR$/TypeInference.js" />
+        <item url="file://$PROJECT_DIR$/dataType.js" />
+        <item url="file://$PROJECT_DIR$/hello.js" />
+        <item url="file://$PROJECT_DIR$/unionTypes.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Interfaces.js" />
+      <root url="file://$PROJECT_DIR$/TypeInference.js" />
+      <root url="file://$PROJECT_DIR$/dataType.js" />
+      <root url="file://$PROJECT_DIR$/hello.js" />
+      <root url="file://$PROJECT_DIR$/unionTypes.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
